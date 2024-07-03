@@ -24,11 +24,6 @@ Eternamente encantada pelo mundo de análises de negócios e dados e constanteme
 
 
 
-## Análises 
-![Zibia Github Stats](https://github-readme-stats.vercel.app/api?username=zibia-cunha&show_icons=true&theme=moltack)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zibia-cunha&hide=TeX&layout=compact&theme=moltack)
-
-
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zibia-cunha.zibia-cunha)
 
