@@ -1,6 +1,7 @@
 
 ### 
-## Interesses por análises de negócios e extração de soluções de negócios por meio de análises de dados.
+Analista de negócios com foco em extração de soluções de negócios por meio de análises de dados.
+👩‍💻 atualmente estudando mais sobre análises de dados. 
 ### 
   
 <div style="display: inline_block"><br>
@@ -18,7 +19,6 @@
 <a href="https://www.linkedin.com/in/zibiaribeiro" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div> <br>
 
-
-```
+### 
 Hic Et Nunc!
-```
+
