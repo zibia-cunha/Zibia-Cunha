@@ -1,5 +1,5 @@
 
-#### 🎯 Analista de negócios com foco em extração de soluções de negócios por meio de análises de dados.  
+#### 🎯 Analista de negócios com foco em extração de soluções por meio de análises de dados.  
 
 🌱 *Atualmente estudando mais sobre análises de dados.* 
 
