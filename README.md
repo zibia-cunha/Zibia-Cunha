@@ -21,7 +21,7 @@
 <br>
    
 <img align="center" alt="Tableau" height="30" width="40" src="https://simpleicons.org/icons/tableau.svg">
-<img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg">
+<img align="center" alt="Arch" height="30" width="40" src="https://simpleicons.org/icons/archlinux.svg">
 <img align="center" alt="Mac" height="30" width="40" src="https://simpleicons.org/icons/apple.svg">
 <img align="center" alt="VScodium" height="30" width="40" src="https://simpleicons.org/icons/vscodium.svg">
 </div>
