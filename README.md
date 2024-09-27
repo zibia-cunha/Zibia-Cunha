@@ -29,4 +29,4 @@
   ---
 
 <div style="display: inline_block">  
-<img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zibia-cunha&theme=nord_dark"/> <img heigth="300" width="289" src= "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zibia-cunha&theme=nord_dark"/> 
+<img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zibia-cunha&theme=nord_dark"/> 
