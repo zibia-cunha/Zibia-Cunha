@@ -17,9 +17,7 @@
 <img align="center" alt="DBeaver" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg">
 <img align="center" alt="Python" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 <img align="center" alt="R" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
-<br>
-<br>
-   
+
 <img align="center" alt="Tableau" height="40" width="45" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/tableau-auto.svg">
 <img align="center" alt="Arch" height="40" width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg">
 <img align="center" alt="Mac" height="40" width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Dark.svg">
